@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    .container {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 50px;
+        border: 2px solid #aaa;
+    }
+
+
+    
+    body{
+        font-family: sans-serif;
+        font-size: var(--font-size-medium);
+        line-height: var(--line-height-medium);
+    }
+
+
+
+    .rasmi{
+    float: right;
+    border-color: black;
+    width: 300px;
+    height: 840px;
+    background-color: #f9f9f9 ;
+    border: 1px solid #aaa;
+    }
+    .chiziq{
+        border: 1px solid #aaa;
+    }
+    .ras{
+        margin-left: 40px;
+    }
+
+    .rasmchap{
+        padding-top: 30px;
+    }
+    .hayoti{
+        padding-top: 30px;
+    }
+
+    .ruboinav{
+        width: 900px;
+        height: 100px;
+        border: 1px solid #aaa;
+        background-color: #f8f9fa;
+        margin-top: 25px;
+    }
+
+    .chiziq1{
+        border: 1px solid #aaa;
+        width: 850px;
+        margin-left: 20px;
+    }
+
+    .hh1{
+        margin-left: 370px;
+        padding: 4px ;
+    }
+
+    .hh11{
+        margin-left: 417px;
+    }
+    .rubboii{
+      display: flex;
+      justify-content: space-between;
+       
+    }
+    .rubchap{
+        width: 400px;
+        height: auto;
+        border: 1px solid #aaa;
+        padding: 10px;
+        margin-top: 45px;
+        background-color: #f8f9fa;
+    }
+    .rubong{
+        width: 400px;
+        height: auto;
+        border: 1px solid #aaa;
+        padding: 10px;
+        margin-top: 45px;   
+        background-color:#f8f9fa
+    }
